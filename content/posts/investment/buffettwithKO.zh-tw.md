@@ -58,9 +58,11 @@ seo:
   images: []
   # ...
 ---
-## **前言**
+### 前言
 
 可口可樂是我喜歡的碳酸飲料品牌，目前WFH期間也訂了箱肥宅快樂水在家享受，剛好投資大師股神巴菲特最喜歡喝的也是可口可樂(特別是櫻桃口味)，故本次作業就挑選巴菲特投資可口可樂公司作為主題。
+
+---
 
 
 ### 概要
@@ -80,72 +82,30 @@ seo:
 ### 一錘定音式的投資方式
 
 
-巴菲特於1988年的致股東信對可口可樂這筆投資的說明是**「我們希望長期持有這些股票，事實上，當我們擁有具備優秀的管理階層的優秀企業的部分股份，我們最喜歡的持有期限是永遠。」**
+巴菲特於1988年的致股東信對可口可樂這筆投資的說明是「**我們希望長期持有這些股票，事實上，當我們擁有具備優秀的管理階層的優秀企業的部分股份，我們最喜歡的持有期限是永遠。**」
 
 > In 1988 we made major purchases of Federal Home Loan Mortgage Pfd. ("Freddie Mac") and Coca-Cola. **We expect to hold these securities for a long time. In fact, when we own portions of outstanding businesses with outstanding managements, our favorite holding period is forever.** We are just the opposite of those who hurry to sell and book profits when companies perform well but who tenaciously hang on to businesses that disappoint. Peter Lynch aptly likens such behavior to cutting the flowers and watering the weeds.
 >
 
-
 <aside>
-💡 值得思考何謂巴菲特所說的**優秀的企業及優秀的管理階層**?
-
-</aside>
+💡 值得思考何謂巴菲特所說的優秀的企業及優秀的管理階層?
 
 投資可口可樂對巴菲特來說除了帶來數倍的資本利得，每年穩定的股息亦為波克夏公司帶來豐厚的現金流。
 
-### 整理了巴菲特1989年致股東信提到投資可口可樂的主要原因有三
+---
+
+### 整理巴菲特1989年致股東信提到投資可口可樂的主要原因有三
 
 1. 高毛利的零售業與具備傑出吸引力、潛力的產品
 2. 具備優秀的管理階層: Roberto Goizueta (CEO 1980–1997)、 Don Keough (COO 1981–1993)
 3. 海外市場急速成長
 
-> This Coca-Cola investment provides yet another example of
-the incredible speed with which your Chairman responds to
-investment opportunities, no matter how obscure or well-disguised
-they may be. I believe I had my first Coca-Cola in either 1935 or
-1936. Of a certainty, it was in 1936 that I started buying Cokes
-at the rate of six for 25 cents from Buffett & Son, the family
-grocery store, to sell around the neighborhood for 5 cents each.
-**In this excursion into high-margin retailing, I duly observed
-the extraordinary consumer attractiveness and commercial
-possibilities of the product.**
-
-     I continued to note these qualities for the next 52 years as
-Coke blanketed the world. During this period, however, I
-carefully avoided buying even a single share, instead allocating
-major portions of my net worth to street railway companies,
-windmill manufacturers, anthracite producers, textile businesses,
-trading-stamp issuers, and the like. (If you think I'm making
-this up, I can supply the names.) Only in the summer of 1988 did
-my brain finally establish contact with my eyes.
-
-     What I then perceived was both clear and fascinating. **After
-drifting somewhat in the 1970's, Coca-Cola had in 1981 become a
-new company with the move of Roberto Goizueta to CEO. Roberto,
-along with Don Keough, once my across-the-street neighbor in
-Omaha, first rethought and focused the company's policies and
-then energetically carried them out. What was already the world's
-most ubiquitous product gained new momentum, with sales overseas
-virtually exploding.**
-
-     Through a truly rare blend of marketing and financial
-skills, Roberto has maximized both the growth of his product and
-the rewards that this growth brings to shareholders. Normally,
-the CEO of a consumer products company, drawing on his natural
-inclinations or experience, will cause either marketing or
-finance to dominate the business at the expense of the other
-discipline. With Roberto, the mesh of marketing and finance is
-perfect and the result is a shareholder's dream.
-
-     Of course, we should have started buying Coke much earlier,
-soon after Roberto and Don began running things. In fact, if I
-had been thinking straight I would have persuaded my grandfather
-to sell the grocery store back in 1936 and put all of the
-proceeds into Coca-Cola stock. I've learned my lesson: My
-response time to the next glaringly attractive idea will be
-slashed to well under 50 years.
-> 
-
+> This Coca-Cola investment provides yet another example of the incredible speed with which your Chairman responds to investment opportunities, no matter how obscure or well-disguised
+> they may be. I believe I had my first Coca-Cola in either 1935 or 1936.
+>
+> Of a certainty, it was in 1936 that I started buying Cokes at the rate of six for 25 cents from Buffett & Son, the family grocery store, to sell around the neighborhood for 5 cents each.
+> **In this excursion into high-margin retailing, I duly observed the extraordinary consumer attractiveness and commercial possibilities of the product.** I continued to note these qualities for the next 52 years as Coke blanketed the world. During this period, however, I carefully avoided buying even a single share, instead allocating major portions of my net worth to street railway companies,
+> windmill manufacturers, anthracite producers, textile businesses, trading-stamp issuers, and the like. (If you think I'm making this up, I can supply the names.) Only in the summer of 1988 did my brain finally establish contact with my eyes. What I then perceived was both clear and fascinating. **After drifting somewhat in the 1970's, Coca-Cola had in 1981 become a new company with the move of Roberto Goizueta to CEO. Roberto, along with Don Keough, once my across-the-street neighbor in Omaha, first rethought and focused the company's policies and then energetically carried them out. What was already the world's most ubiquitous product gained new momentum, with sales overseas virtually exploding.**  Through a truly rare blend of marketing and financial skills, Roberto has maximized both the growth of his product and the rewards that this growth brings to shareholders. Normally, the CEO of a consumer products company, drawing on his natural inclinations or experience, will cause either marketing or finance to dominate the business at the expense of the other discipline. With Roberto, the mesh of marketing and finance is perfect and the result is a shareholder's dream. Of course, we should have started buying Coke much earlier,soon after Roberto and Don began running things. In fact, if Ihad been thinking straight I would have persuaded my grandfather to sell the grocery store back in 1936 and put all of the proceeds into Coca-Cola stock. I've learned my lesson: My response time to the next glaringly attractive idea will beslashed to well under 50 years.
 *節錄自波克夏公司1989年致股東信*
 
 ---
@@ -153,7 +113,7 @@ slashed to well under 50 years.
 <aside>
 👀 題外話，巴菲特1989年致股東信亦提到Don Keough是他住在對街的鄰居，某次Keough 推薦他公司的新產品「櫻桃口味可樂」，想不到巴菲特一喝上癮，從此愛上可口可樂並將可口可樂列為股東會上提供的飲品，在此之前巴菲特一直都是Pepsi的信徒。
 
-</aside>
+---
 
 ### 高毛利的零售業與具備傑出吸引力、潛力的產品
 
@@ -194,12 +154,15 @@ Goizueta 上任後先是裁撤表現不良的投資(釀酒廠、哥倫比亞影�
 
 ---
 
-## 全方位飲料公司
+### 全方位的飲料公司
 
 雖然近年來消費者健康意識抬頭，逐漸減少對含糖碳酸飲料的攝取，然而可口可樂公司亦持續尋求新的發展方向，開始進軍咖啡、茶飲、能量飲料、果汁、飲用水等。
 
-可口可樂公司目前要將自己打造為「全方位飲料公司」(Total beverage company)，針對各國家甚至各地區的飲食偏好，拓展產品多樣性並提供多元的飲品選擇予消費者，結合其遍布全球200多個國家的通路優勢可以更方便地推銷新產品給消費。針對各國家甚至各地區的飲食偏好，拓展產品多樣性並提供多元的飲品選擇予消費者，結合其遍布全球200多個國家的通路優勢可以更方便地推銷新產品給消費。
+可口可樂公司目前要將自己打造為「**全方位飲料公司**」(Total beverage company)，針對各國家甚至各地區的飲食偏好，拓展產品多樣性並提供多元的飲品選擇予消費者，結合其遍布全球200多個國家的通路優勢可以更方便地推銷新產品給消費。針對各國家甚至各地區的飲食偏好，拓展產品多樣性並提供多元的飲品選擇予消費者，結合其遍布全球200多個國家的通路優勢可以更方便地推銷新產品給消費。
+
+---
 
 ### 結論
 
-可口可樂是日常生活最容易接觸到的商品，投資可口可樂不像投資半導體股票需要具備深厚的產業知識，可口可樂的商業模式很容易理解，對一般人來說可口可樂也都在**能力圈**範圍內，我自己未來選股方向也會以彼得林區所說的**"Invest in what you know"** 為主並且結合巴菲特所說的「**我們最喜歡的持有期限是永遠」**對優秀的企業長期持有。
+可口可樂是日常生活最容易接觸到的商品，投資可口可樂不像投資半導體股票需要具備深厚的產業知識，可口可樂的商業模式很容易理解，對一般人來說可口可樂也都在**能力圈**範圍內，我自己未來選股方向也會以彼得林區所說的「**Invest in what you know**」 為主並且結合巴菲特所說的「**我們最喜歡的持有期限是永遠**」對優秀的企業長期持有。
+
